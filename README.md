@@ -21,9 +21,9 @@ A simple console-based word guessing game built with C++. The computer randomly 
 
 5. The game ends when:
 
-             i. The user guesses the whole word (win).
+     i. The user guesses the whole word (win).
 
-            ii. They run out of attempts (lose).
+    ii. They run out of attempts (lose).
 # Requirements
 C++ Compiler .
 
