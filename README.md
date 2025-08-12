@@ -10,4 +10,21 @@ A simple console-based word guessing game built with C++. The computer randomly 
 4. Displays progress with underscores for unguessed letters
 
 5. Simple, lightweight, and runs in the terminal
+# How it works:
+1. A random word is chosen from a predefined list.
 
+2. The player guesses one letter at a time.
+
+3. If the guess is correct, it fills in the blanks.
+
+4. If wrong, the remaining attempts decrease.
+
+5. The game ends when:
+
+             i. The user guesses the whole word (win).
+
+            ii. They run out of attempts (lose).
+# Requirements
+C++ Compiler .
+
+Works on Windows, Linux, and macOS.
